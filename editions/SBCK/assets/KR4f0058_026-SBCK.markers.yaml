@@ -20,6 +20,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR4f0058_SBCK_026-1a03}
   - {type: indent, offset: 7, content: 　, id: KR4f0058_SBCK_026-bkkind4}
   - {type: punctuation, offset: 8, content: (, id: KR4f0058_SBCK_026-bkkpn1}
+  - {type: voice, offset: 8, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 9, content: ), id: KR4f0058_SBCK_026-bkkpn2}
   - {type: 'kr:newline', offset: 9, content: '
 
@@ -27,6 +28,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4f0058_SBCK_026-1a04}
   - {type: indent, offset: 9, content: 　　　, id: KR4f0058_SBCK_026-bkkind5}
   - {type: punctuation, offset: 15, content: (, id: KR4f0058_SBCK_026-bkkpn3}
+  - {type: voice, offset: 15, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 17, content: ), id: KR4f0058_SBCK_026-bkkpn4}
   - {type: 'kr:newline', offset: 17, content: '
 
@@ -799,6 +801,7 @@ markers:
   - {type: line-break, offset: 3184, content: '', id: KR4f0058_SBCK_026-9a01}
   - {type: indent, offset: 3184, content: 　　　, id: KR4f0058_SBCK_026-bkkind19}
   - {type: punctuation, offset: 3195, content: (, id: KR4f0058_SBCK_026-bkkpn5}
+  - {type: voice, offset: 3195, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3197, content: ), id: KR4f0058_SBCK_026-bkkpn6}
   - {type: 'kr:newline', offset: 3197, content: '
 
@@ -1031,6 +1034,7 @@ markers:
   - {type: line-break, offset: 4237, content: '', id: KR4f0058_SBCK_026-11a10}
   - {type: indent, offset: 4237, content: 　　　, id: KR4f0058_SBCK_026-bkkind21}
   - {type: punctuation, offset: 4245, content: (, id: KR4f0058_SBCK_026-bkkpn7}
+  - {type: voice, offset: 4245, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 4247, content: ), id: KR4f0058_SBCK_026-bkkpn8}
   - {type: 'kr:newline', offset: 4247, content: '
 
@@ -1221,4 +1225,4 @@ markers:
 
       ', id: KR4f0058_SBCK_026-bkkkrnewl296}
   back: []
-hash: sha256:1f81309818eb4d3ac1a54b435a2eeb876a9cba75bd916cbda2643b443541c1a1
+hash: sha256:bb57f7945281a4ac34ce96483763b9433418ef17d8c17a168d0ba524847b5b63

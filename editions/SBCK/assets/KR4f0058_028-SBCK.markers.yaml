@@ -20,6 +20,7 @@ markers:
   - {type: line-break, offset: 7, content: '', id: KR4f0058_SBCK_028-1a03}
   - {type: indent, offset: 7, content: 　, id: KR4f0058_SBCK_028-bkkind4}
   - {type: punctuation, offset: 8, content: (, id: KR4f0058_SBCK_028-bkkpn1}
+  - {type: voice, offset: 8, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 9, content: ), id: KR4f0058_SBCK_028-bkkpn2}
   - {type: 'kr:newline', offset: 9, content: '
 
@@ -27,6 +28,7 @@ markers:
   - {type: line-break, offset: 9, content: '', id: KR4f0058_SBCK_028-1a04}
   - {type: indent, offset: 9, content: 　　　, id: KR4f0058_SBCK_028-bkkind5}
   - {type: punctuation, offset: 20, content: (, id: KR4f0058_SBCK_028-bkkpn3}
+  - {type: voice, offset: 20, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 22, content: ), id: KR4f0058_SBCK_028-bkkpn4}
   - {type: 'kr:newline', offset: 22, content: '
 
@@ -1082,6 +1084,7 @@ markers:
   - {type: line-break, offset: 4928, content: '', id: KR4f0058_SBCK_028-12a03}
   - {type: indent, offset: 4928, content: 　　　, id: KR4f0058_SBCK_028-bkkind6}
   - {type: punctuation, offset: 4943, content: (, id: KR4f0058_SBCK_028-bkkpn5}
+  - {type: voice, offset: 4943, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4945, content: ), id: KR4f0058_SBCK_028-bkkpn6}
   - {type: 'kr:newline', offset: 4945, content: '
 
@@ -1300,6 +1303,7 @@ markers:
   - {type: line-break, offset: 5916, content: '', id: KR4f0058_SBCK_028-14a08}
   - {type: indent, offset: 5916, content: 　　　, id: KR4f0058_SBCK_028-bkkind10}
   - {type: punctuation, offset: 5930, content: (, id: KR4f0058_SBCK_028-bkkpn7}
+  - {type: voice, offset: 5930, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5932, content: ), id: KR4f0058_SBCK_028-bkkpn8}
   - {type: 'kr:newline', offset: 5932, content: '
 
@@ -1504,4 +1508,4 @@ markers:
 
       ', id: KR4f0058_SBCK_028-bkkkrnewl369}
   back: []
-hash: sha256:6c006e304f22d5f32ce5ee355515a75351096284a143fdf61f068548b6a34a06
+hash: sha256:6ddd4f85469c61e4ecb84635ff5a6ff0227f13f743e372b00798344ccb03c469
